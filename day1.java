@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 ////////01/04/26/////
 
 public class day1{
