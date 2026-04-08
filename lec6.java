@@ -9,6 +9,7 @@ public class lec6{
                       {7,8,9}};
         int sum=0;
         for(int i=0;i<3;i++){
+            
             sum+= arr[i][i];
         }   
         System.out.println(sum);           
