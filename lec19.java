@@ -75,15 +75,15 @@ public class BalancedBrackets {
         return stack.isEmpty();
     }
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter a string of brackets: ");
-        String input = sc.nextLine();
+//         System.out.print("Enter a string of brackets: ");
+//         String input = sc.nextLine();
 
-        boolean result = isBalanced(input);
-        System.out.println(result);
+//         boolean result = isBalanced(input);
+//         System.out.println(result);
 
-        sc.close();
-    }
-}
+//         sc.close();
+//     }
+// }
