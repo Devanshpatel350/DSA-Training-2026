@@ -1,6 +1,6 @@
 import java.util.Arrays;
 //write a code to find the nth fibonacci number using optimal approach
-public class lac12 {
+public class lec17 {
 
     static int fibo(int n, int[] dp) {
         if (n <= 1) {
