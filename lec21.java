@@ -1,4 +1,6 @@
-public class MaxSumArrSumPrefix {
+//MaxSumArrSumPrefix
+
+public class lec21 {
     public static void maxSum(int num[] ) {
         
         int len= num.length;
